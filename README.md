@@ -23,3 +23,4 @@ Two teams were formed:
   * Asif Mughal
   * Gandhi Manalu
   * Paulo Rios
+  * Missing: Thomas Beaujard
