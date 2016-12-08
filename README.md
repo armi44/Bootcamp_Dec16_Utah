@@ -9,7 +9,7 @@ Two teams were formed:
 * Team Terminator
  _(Names for appearance from left to right)_
   * Cody Cheng
-  * Habib Ben Rajab
+  * Habib Ben Rajeb
   * Marcin Armata
   * Glenn David McCall
   * Prasanna Easwarananthan
